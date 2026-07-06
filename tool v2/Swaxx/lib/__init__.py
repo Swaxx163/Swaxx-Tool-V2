@@ -1,1 +1,0 @@
-# Swaxx-Tools library
